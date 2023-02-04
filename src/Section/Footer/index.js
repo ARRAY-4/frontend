@@ -22,7 +22,7 @@ function Footer() {
                   euismod ipsum et dui rhoncus auctor.
                 </p>
               </div>
-              <hr class="h-[1.5px] my-8 mb  border-0 bg-white "></hr>
+              <hr className="h-[1.5px] my-8 mb  border-0 bg-white "></hr>
               <div className="flex justify-between">
                 <p>2020 Pewworld. All right reserved</p>
                 <div className="flex">
